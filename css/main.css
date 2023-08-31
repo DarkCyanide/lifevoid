@@ -1,8 +1,8 @@
 @viewport {
   width: device-width;
-    zoom: 0;
-    min-zoom: 0;
-    max-zoom: 0;
+    zoom: 25%;
+    min-zoom: 25%;
+    max-zoom: 25%;
     user-zoom: 25%;
 }
 
